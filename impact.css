@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
+h3{
+  font-family: 'Courier New', Courier, monospace;
+}
+body{
+  background-color: lavenderblush;
+}

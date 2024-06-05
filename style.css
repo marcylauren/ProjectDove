@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: lavenderblush;
+}
+#upperNavbar{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: -20px;
+  background-color: lightyellow;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: black;
+}
+#lowerNavbar{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: -20px;
+    background-color: lightyellow;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: black;
+    width: 100%;
+}
+#anecdotes{
+  font-family: 'Courier New', Courier, monospace;
+  position: fixed;
+  bottom: 50%;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightyellow;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: black;
+}
+#logo{
+  font-family: 'Courier New', Courier, monospace;
+  position: fixed;
+  bottom: 40%;
+  right: 40%;
+  display: flex;
+  border-style: solid;
+  border-color: black;
+  border-radius: 20px;
+}

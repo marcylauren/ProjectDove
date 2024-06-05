@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: lavenderblush;
+}
+#header{
+  font-family: 'Courier New', Courier, monospace;
+}
+#info{
+  font-family: 'Courier New', Courier, monospace;
+}
+.Sources{
+  font-family: 'Courier New', Courier, monospace;
+}
+a{
+  font-family: 'Courier New', Courier, monospace;
+}
